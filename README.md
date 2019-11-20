@@ -1,1 +1,2 @@
-# breastcancerananalysis
+### Breast Cancer Analysis using Machine Learning Algorithms
+Performed Machine Learning algorithms SVM, KNN and Naive Bayes on the Wisconsin Breast cancer data set to conduct breast cancer analysis. The predicted outcome can be classified into either a malignant tumor or the benign breast mass based on Clump Thickness, Uniformity of Cell Size, Uniformity of Cell Shape, Marginal Adhesion, Single Epithelial Cell Size, Bare Nuclei, Bland Chromatin, Normal Nucleoli and Mitoses which are all features of the data set.
